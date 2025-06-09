@@ -39,10 +39,17 @@ Feature-importance (classifier): `loudness`, `danceability`, `valence` dominate.
 * Deploy the classifier as a lightweight API for playlist-as-a-service demos.  
 * Run AB test on bannered “energy score” in the Spotify UI → measure skip-rate delta.
 
+### EDA 
+<img src="assets/EDA.png">
 
-<p align="center">
-  <img src="docs/assets/spotify-data-banner.png" width="650" alt="Spotify Data Insights">
-</p>
+### Feature Importance between numerical coloumns
+<img src="assets/featureImportance.png"> 
+
+### Machine Learning Model Comparision and Precision
+| Model Comparision | Model Precision |
+|------------|---------------|
+| <img src="assets/modelcomparison.png"> | <img src="assets/modelprecisioncomparison.png"> |
+
 
 <p align="center">
   <a href="https://github.com/onegoodthing/spotify-data-insights/actions">
