@@ -1,7 +1,3 @@
----
-title: Spotify Data Insights
----
-
 ![Spotify Data Insights](assets/spotify-data-banner.png)
 
 > **One-pager** showcasing exploratory data analysis and quick-win machine-learning models on a public Spotify tracks dataset.
@@ -45,9 +41,6 @@ Feature-importance (classifier): `loudness`, `danceability`, `valence` dominate.
 
 ---
 
-### 2  `README.md` — repository front page  
-
-```markdown
 <p align="center">
   <img src="docs/assets/spotify-data-banner.png" width="650" alt="Spotify Data Insights">
 </p>
