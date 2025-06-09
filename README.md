@@ -1,4 +1,4 @@
-html <p align="center"> <img src="assets/spotify-data-banner.png" width="300" alt="Spotify Data Insights"> </p>
+<p align="center"> <img src="assets/spotify-data-banner.png" width="500" alt="Spotify Data Insights"> </p>
 
 > **One-pager** showcasing exploratory data analysis and quick-win machine-learning models on a public Spotify tracks dataset.
 
