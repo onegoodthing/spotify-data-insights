@@ -39,7 +39,6 @@ Feature-importance (classifier): `loudness`, `danceability`, `valence` dominate.
 * Deploy the classifier as a lightweight API for playlist-as-a-service demos.  
 * Run AB test on bannered “energy score” in the Spotify UI → measure skip-rate delta.
 
----
 
 <p align="center">
   <img src="docs/assets/spotify-data-banner.png" width="650" alt="Spotify Data Insights">
@@ -81,7 +80,6 @@ Streaming platforms sit on oceans of metadata but still rely on ad-hoc curation.
 | CI | GitHub Actions + `pytest` |
 
 ## Quick start
-```bash
 git clone https://github.com/onegoodthing/spotify-data-insights.git
 cd spotify-data-insights
 conda env create -f environment.yml
