@@ -20,11 +20,10 @@ Key columns: *danceability, energy, loudness, speechiness, acousticness, instrum
 > * Labels should time releases of dance-heavy tracks to Q3/Q4 when user energy appetite peaks.  
 > * Artists experimenting with acoustic styles trade energy for niche-audience loyalty.
 
-This project asks:
-* Which audio attributes most influence *popularity*?  
-* How do features like *danceability* or *loudness* correlate?  
-* Can we predict a track’s *energy* level—and flag “party-ready” songs—using a
-  lightweight model?
+**This project asks:**
+> * Which audio attributes most influence *popularity*?  
+> * How do features like *danceability* or *loudness* correlate?  
+> * Can we predict a track’s *energy* level—and flag “party-ready” songs—using a lightweight model?
   
 ## 🎯 Two quick ML experiments  
 
