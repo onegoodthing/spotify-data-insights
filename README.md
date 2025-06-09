@@ -1,4 +1,4 @@
-<p align="center"> <img src="assets/spotify-data-banner.png" width="500" alt="Spotify Data Insights"> </p>
+<p align="center"> <img src="assets/spotify-data-banner.png" style="width:60%;" alt="Spotify Data Insights"> </p>
  
  Showcasing exploratory data analysis and quick-win machine-learning models on a public Spotify tracks dataset.
 
@@ -56,7 +56,6 @@ Feature-importance (classifier): `loudness`, `danceability`, `valence` dominate.
     <img alt="CI" src="https://img.shields.io/github/actions/workflow/status/onegoodthing/spotify-data-insights/tests.yml?label=tests">
   </a>
   <img alt="Python" src="https://img.shields.io/badge/python-3.11-blue">
-  <img alt="License" src="https://img.shields.io/github/license/onegoodthing/spotify-data-insights">
 </p>
 
 # Spotify Data Insights 🎧📈
